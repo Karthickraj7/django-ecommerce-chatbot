@@ -1,0 +1,9 @@
+Django>=3.2,<4.0
+djangorestframework>=3.12,<3.13
+django-rest-auth==0.9.5
+django-allauth==0.54.0
+django-cors-headers>=3.14,<4.0
+django-countries>=7.6
+django-crispy-forms==1.14.0
+stripe==2.37.1
+Pillow
